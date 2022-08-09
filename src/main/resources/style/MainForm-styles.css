@@ -1,0 +1,9 @@
+#pneContainer {
+    -fx-background-image: url(background.jpg);
+    -fx-background-size: cover;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+.btn:hover, .btn:focused {
+    background-color: rgba(35,43,117,0.3) !important;
+}
